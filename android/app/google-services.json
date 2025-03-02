@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231481421846",
+    "project_id": "asmreact-126fe",
+    "storage_bucket": "asmreact-126fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231481421846:android:cade2591d73c67c6d8c537",
+        "android_client_info": {
+          "package_name": "com.asmanreact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP4Zq7QBVnmrNy7WZdBe4WaIh-mb6mfV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
